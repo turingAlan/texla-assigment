@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Youtube-clone",
-    "slug": "Youtube-clone",
+    "name": "Texla-assigment",
+    "slug": "Texla-assigment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sarthakgreater.Texlaassigment"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de0e285d-c9fc-4292-a93f-94fe78eb7f13"
+      }
     }
   }
 }

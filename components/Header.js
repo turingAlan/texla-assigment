@@ -21,14 +21,12 @@ function Header(props) {
 
 const Styles = StyleSheet.create({
   container: {
-    // backgroundColor: colors.grey,
-    marginTop: 30,
+    marginBottom: 8,
     height: 50,
     alignContent: "center",
     alignItems: "center",
     paddingHorizontal: 5,
     flexDirection: "row",
-    marginBottom: 6,
   },
   title: {
     color: colors.orange,
